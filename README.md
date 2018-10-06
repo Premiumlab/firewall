@@ -10,3 +10,6 @@
 * Store port and ip range effectively. This project uses a native approach, which is to traverse all the possible. combinations. Further improvement may use segment line data structure to reduce space and time.
 * More test cases. Due to time limit, test cases are not included. Test cases may include large data set (more than 500k). 
 * Complex error handling. This project only considers FileNotFoundException, more exceptions should be considered. 
+
+## Team Preference
+I like Data team most. Other teams look very good to me as well!
