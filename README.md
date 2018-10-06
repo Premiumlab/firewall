@@ -1,6 +1,6 @@
 # firewall
 
-## Implementation implementation
+## Implementation overall
 * CSV file is read from the Firewall constructor and the file path should be specified.
 * Each line of the CSV is encapsulated as Packet class
 * Packet is constructed with directory, protocol, port and ip. And every packet object has a unique identifier hashCode.
